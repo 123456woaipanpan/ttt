@@ -1,4 +1,4 @@
 #整合mongodb
 mongodb:
-  uri: mongodb://localhost:27022
+  uri: mongodb://localhost:27017
   database: MongodbTest
